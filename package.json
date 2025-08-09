@@ -1,0 +1,13 @@
+{
+  "name": "clavier-ninja-server",
+  "version": "1.0.0",
+  "description": "Serveur WebSocket pour Clavier Ninja Online 1v1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "nanoid": "^5.0.0",
+    "ws": "^8.17.0"
+  }
+}
